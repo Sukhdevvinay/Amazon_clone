@@ -1,0 +1,456 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+#All {
+    color:#0F1111;
+    float: left;
+    border: solid 1px;
+    background-color: #f3f3f3;
+    height: 40px;
+    margin-top: 9px;
+    padding: 11px;
+    padding-top: 7px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-color: #f3f3f3;
+}
+#All:hover {
+    background-color: #e9e5e5;
+}
+#all_logo {
+    margin-left: 5px;
+}
+.container {
+    background-color: black;
+    margin-top: -3px;
+    height: 65px;
+    padding-top: 2px;
+}
+#logo {
+    border: solid black;
+    margin: 5px;
+    margin-top: 10px;
+    padding: 0px;
+    float: left;
+}
+#logo:hover {
+    border-color: aliceblue;
+    border-width: 1px;
+    border-radius: 3px;
+}
+.com {
+    border : solid 1px;
+}
+#img {
+    margin-top: 20px;
+    float: left;
+}
+a {
+    text-decoration: none;
+}
+.cont {
+    padding-top: 10px;
+}
+#First {
+    color: grey;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+#Second {
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.Map {
+    width: 173px;
+    height: 50px;
+    margin-top: 3px;
+    padding-bottom: 8px;
+    border: solid black;
+    float: left;
+    margin-left: -2px;
+    margin-right: 12px;
+}
+.Map:hover {
+    border: solid white 1px;
+    border-radius: 3px;
+}
+#srch {
+ margin-top: 9px;
+ height: 40px;
+ width: 695px;
+ padding: 12px;
+ float: left;
+}
+#btn {
+    background-color: rgb(226, 155, 48);
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    float: left;
+    height: 40px;
+    margin-top: 9px;
+    padding: 11px;
+    padding-top: 7px;
+}
+#btn:hover {
+    background-color: rgb(224, 143, 20);
+}
+#order {
+    border: solid #232f3e 1px;
+    background-color: #232f3e
+}
+.ord {
+   border:solid #232f3e 1px;
+   float: left; 
+   margin-top: 5px;
+   margin-left: 16px;
+   padding-top: 8px;
+   padding-bottom: 10px;
+   color: white;
+}
+#shop {
+    margin-left: 20px;
+    border: solid #232f3e 1px;
+}
+.ord:hover,#shop:hover {
+    border: solid white 1px;
+}
+#flag {
+    border: solid 1px black;
+    float: left;
+    margin-top: 15px;
+    margin-left: 12px;
+}
+#EN {
+    float:left;
+    margin-top: 15px;
+    margin-left: 1px;
+    margin-right: 15px;
+    margin-bottom: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+#flagbox {
+    border: solid black 1px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+#flagbox:hover {
+    border: solid white 1px;
+    border-radius: 5px;
+}
+#drop_prime {
+    margin-top: 3px;
+}
+#flag_drop {
+    margin-top: 22px;
+    margin-right: 5px;
+    margin-left: -12px;
+}
+.Hello {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(226, 221, 221);
+    font-size: 12px;
+}
+.Hello_content {
+    border: solid 1px black;
+    float: left;
+    margin-left: 7px;
+    margin-top: 5px;
+    padding: 6px;
+    color: white;
+}
+#Act {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+.Hello_content:hover {
+    border: solid 1px white;
+    border-radius: 3px;
+}
+#bottom {
+    background-color: #37475a;
+    height:50px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 15px;
+    
+}
+#top {
+    margin-left: 700px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+#bottom:hover {
+    background-color: #4a5868;
+}
+#last_bottom {
+    background-color: #232f3e;
+    height: 385px;
+}
+.box {
+    float: left;
+    margin-left: 130px;
+    margin-top: 50px;
+    display:grid;
+    color: #FFF;
+}
+#leftbox {
+    margin-left: 290px;
+}
+.heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.boxcontent {
+    margin-top: -3px;
+    font-size: 14px;
+    color: #DDD;
+    font-family: 'Roboto', sans-serif;
+}
+.boxcontent:hover {
+    text-decoration-line:underline;
+}
+.base {
+    border: solid #232f3e 1px;
+    background-color: #232f3e;
+    height: 120px;
+}
+#base_logo {
+    margin-left: 640px;
+    margin-top: 30px;
+}
+#language {
+     margin-left: 800px;
+     border: solid 1px rgb(226, 221, 221);
+     border-radius: 5px;
+     padding-top: 3px;
+     padding-left: 25px;
+     width: 120px;
+     height: 35px;
+     margin-top: -40px;
+     margin-bottom: 13px;
+     color: white;
+}
+#earth {
+    margin-top: 2px;
+    margin-left: 6px;
+}
+#language:hover {
+    cursor:pointer;
+}
+.country {
+    margin-left: 11px;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: #DDD;
+}
+.country:hover {
+    text-decoration: underline;
+}
+#f_count {
+    margin-left: 348px;
+}
+.copyrights {
+    border: solid #131A22;
+    background-color: #131A22;
+    height: 230px;
+}
+.last {
+    float: left;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-left: 101px;
+    margin-top: 29px;
+}
+.grey {
+    color:#999;
+    font-size: 12px;
+}
+#leftlast {
+    margin-left: 280px;
+}
+.Secondlast {
+    float: left;
+    color: white;
+    margin-left: 279px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 12px;
+}
+#amaze {
+    float: left;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 12px;
+    margin-left: 89px;
+}
+#prime {
+    float: left;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 12px;
+    margin-left: 122px;
+}
+#music {
+    float: left;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 12px;
+    margin-left: 79px;
+}
+#imd {
+    margin-left: 220px;
+}
+.last:hover,.Secondlast:hover,#amaze:hover,#prime:hover,#music:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Copy {
+    float: left;
+    margin-top: 98px;
+    margin-left: -389px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+#tags {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-left: 7px;
+}
+#tags:hover {
+    text-decoration: underline;
+}
+#para {
+    margin-top: 5px;
+    margin-left: 42px;
+}s
+.newuser {
+   margin-left: auto;
+   margin-left: 660px;
+}
+#userbox {
+    border: solid 1px #DDD;
+    padding-top: 19px;
+    margin-bottom: 19px;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+/* Cloths Coding  #fbc02d */
+#yellow {
+    border: solid 1px #fdd835;
+    background-color: #fdd835;
+    width: 319px;
+    height: 25px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 10px;
+    color: #000;
+}
+.box_yellow {
+    border: solid #FFF 1px;
+    width: 340px;
+    height: 140x;
+    padding-top: 19px;
+    float: left;
+}
+#baad {
+    margin-top: 20px;
+}
+.cloths {
+    margin-top: -4px;
+    /* border: solid  red 1px; */
+    height: 850px;
+    background-image: linear-gradient(to left, #e6f39b,#e0ef92 30px,#c7de6a,#bad550);  
+    background-image: -o-linear-gradient(left,#e3e6e6 );
+}
+/* #e3e6e6 */
+.sale {
+    float: left;
+    border: solid white 1px;
+    padding: 12px;
+    margin-left: 26px;
+    background-color: white;
+}
+.words {
+    color: #000;
+    font-family: 'REM', sans-serif;
+    font-size: 19px;
+}
+#exp {
+    border: solid red 1px;
+    margin-top: 10px;
+}
+.link {
+    color: #007185;
+}
+.link:hover, #explore:hover{
+    color: rgb(227, 109, 109);
+    text-decoration: underline;
+}
+.word {
+    color: #000;
+    font-family: 'REM', sans-serif;
+    margin-left: 18px;
+    line-height: 23px;
+    font-size: 19px;
+}
+.photos {
+    float: left;
+}
+#secphoto {
+    margin-left: 10px;
+}
+.bot {
+    margin-top: 175px;
+    float: left;
+    margin-left: -325px;
+    color: #007185;
+}
+.bot:hover {
+    color:orange;
+    text-decoration: underline;
+}
+.Menimage {
+    margin-top: 25px;
+}
+#yellow_boxphoto {
+    border: solid rgba(186, 198, 23, 0.205);
+    padding-left: 1px;
+}
+.E_words {
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+#explore {
+    margin-left: 1px;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    float: left;
+    color: #007185;
+}
+.tshirts {
+    border: solid #e3e6e6 1px;
+    background-color: #e3e6e6;
+    height: 750px;
+}
+.ph {
+    margin-left: 270px;
+    margin-top: 30px;
+}
+
